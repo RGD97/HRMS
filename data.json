@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "name": "John Doe",
+        "age": 30,
+        "position": "Software Engineer",
+        "department": "Engineering",
+        "salary": 80000,
+        "address": {
+            "street": "123 Main St",
+            "city": "Anytown",
+            "state": "CA",
+            "zipcode": "12345"
+        },
+        "contact": {
+            "email": "john.doe@example.com",
+            "phone": "+1 123-456-7890"
+        }
+    },
+    {
+        "id": 2,
+        "name": "Jane Smith",
+        "age": 28,
+        "position": "UX Designer",
+        "department": "Design",
+        "salary": 70000,
+        "address": {
+            "street": "456 Elm St",
+            "city": "Sometown",
+            "state": "NY",
+            "zipcode": "54321"
+        },
+        "contact": {
+            "email": "jane.smith@example.com",
+            "phone": "+1 987-654-3210"
+        }
+    },
+    {
+        "id": 3,
+        "name": "Michael Johnson",
+        "age": 35,
+        "position": "Product Manager",
+        "department": "Product Management",
+        "salary": 90000,
+        "address": {
+            "street": "789 Oak Ave",
+            "city": "Anycity",
+            "state": "TX",
+            "zipcode": "67890"
+        },
+        "contact": {
+            "email": "michael.johnson@example.com",
+            "phone": "+1 567-890-1234"
+        }
+    }
+]

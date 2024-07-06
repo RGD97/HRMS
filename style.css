@@ -1,0 +1,53 @@
+body {
+    background-color: #eeeee4;
+}
+#header {
+    height: 60px;
+    background-color: #1e81b0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#welcoming {
+    font-weight: bold;
+    color: #eeeee4;
+}
+
+#main {
+    background-color: #eeeee4;
+    height: 100vh;
+}
+
+.container {
+    width: 700px;
+    background-color: #76b5c5;
+    /* margin-top: 30px; */
+    border-radius: 7px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.btns {
+    /* margin-top: 50px; */
+}
+
+#showscrn {
+    width: auto;
+    margin-top: 30px;
+    /* margin: 30px; */
+    background-color: #abdbe3;
+    border-radius: 7px;
+    padding: 40px;
+}
+
+.addBtn.editBtn.delBtn {
+    height: 50px;
+    width: 70px;
+    border-radius: 20px;
+    background-color: #eeeee4;
+}
